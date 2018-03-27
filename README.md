@@ -1,6 +1,6 @@
 # shoppingcart-api
 
-This repository contains the API with the minimal interface to manage events.
+This repository contains the API with the minimal interface to manage shopping events.
 The purpose of creating this project was to:
   1. Have hands on experience with node.js and related frameworks.
   2. Use node.js to send REST API calls 
